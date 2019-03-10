@@ -11,6 +11,10 @@ This project uses [NWB](https://github.com/insin/nwb) boilerplate technology. I 
 3. To run locally: `npm start`
 
 
+# The Mapbox Token
+
+Since this is a public repo, I am keeping the token private. I am happy to share my token (just Slack me), or we can create a MapBox token for the project that we all have.
+
 # To Dos
 
 - [ ] Set up the general layout
