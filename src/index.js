@@ -2,7 +2,6 @@ import "./main.scss";
 import * as d3 from 'd3';
 import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
 import config from './config';
-
 import mapData from "./mapData";
 
 

@@ -17,8 +17,8 @@ Since this is a public repo, I am keeping the token private. I am happy to share
 
 # To Dos
 
-- [ ] Set up the general layout
+- [x] Set up the general layout
 - [ ] Move the visualization from Observable to this layout
 - [ ] Refine map settings
-- [ ] Load all remaining maps
+- [x] Load all remaining maps
 - [ ] Test simple interactions
